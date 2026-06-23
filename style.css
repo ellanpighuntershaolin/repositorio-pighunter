@@ -1,6 +1,6 @@
 body{
             background-color:black;
-            color:lawngreen
+            color:rgb(0, 181, 252)
         }
         h1{
             color:greenyellow
@@ -9,6 +9,10 @@ body{
             color:rgb(74, 139, 0);
     
         }
-        #676767{
-            
+        #curtidas{
+            background-color: darkred; /*cor de fundo*/
+            color: midnightblue; /*cor da letra*/
+            padding: 5px 10px 5px 10px; /* espaço de dentro*/
+            border: 2px solid darkred; /*borda*/
+            border-radius: 12px; /*borda arredondada
         }
