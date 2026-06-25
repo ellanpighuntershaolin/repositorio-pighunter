@@ -12,7 +12,7 @@ body{
         #curtidas{
             background-color: darkred; /*cor de fundo*/
             color: midnightblue; /*cor da letra*/
-            padding: 5px 10px 5px 10px; /* espaço de dentro*/
+            padding: 5px 10px 5px 10px; /* espaco de dentro*/
             border: 2px solid darkred; /*borda*/
             border-radius: 12px; /*borda arredondada
         }
