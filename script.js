@@ -1,4 +1,4 @@
-const curtidas = document.getElementById("curtidas") //pega o botão de curtidas pelo id
+const curtidas = document.getElementById("curtir") //pega o botão de curtidas pelo id
 curtidas.addEventListener("click", aumentarcurtidas) //quamdo clicar chama a função
 
 ///função de aumentar curtidas
